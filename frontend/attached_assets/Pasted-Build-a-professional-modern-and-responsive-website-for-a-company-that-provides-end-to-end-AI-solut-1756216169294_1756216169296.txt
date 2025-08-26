@@ -1,0 +1,81 @@
+Build a professional, modern, and responsive website for a company that provides end-to-end AI solutions.
+
+Requirements:
+
+Global Design
+
+Clean, futuristic, tech-inspired design with smooth animations.
+
+Uniform theme and consistent color palette across all pages (professional shades of blue, white, and dark gray with accent neon tones).
+
+Use modern typography (sans-serif, professional and minimal).
+
+Responsive layout for desktop, tablet, and mobile.
+
+Navigation Bar (Persistent on All Pages)
+
+Menu items: Home, Services, About Us, Consultation, Blog, Brochure.
+
+Sticky navbar with hover effects.
+
+Pages
+
+Home Page
+
+Hero section with tagline: “End-to-End AI Solutions for the Future”.
+
+Call-to-action button (e.g., “Get Started”).
+
+Highlight company’s AI expertise with icons or illustrations.
+
+Client logos/testimonials section.
+
+Services Page
+
+Grid/cards layout showcasing services like AI consulting, ML model development, NLP, Computer Vision, Generative AI, Deployment & Maintenance.
+
+Each service should have a title, short description, and an icon/illustration.
+
+About Us Page
+
+Company story, mission, and vision.
+
+Team section with profile cards (name, role, image placeholder).
+
+Why choose us section with bullet points.
+
+Consultation Page
+
+Form for users to book a consultation (name, email, company, project details).
+
+CTA: “Schedule Your Free AI Consultation”.
+
+Blog Page
+
+Modern blog layout with featured articles (image, title, short snippet).
+
+Categories/tags for filtering.
+
+Placeholder posts with “Read More” links.
+
+Brochure Page
+
+Downloadable brochure section with button (“Download Our Company Brochure”).
+
+Short description of what the brochure contains.
+
+Footer (Global)
+
+Quick links (Home, Services, About, Consultation, Blog, Brochure).
+
+Social media icons.
+
+Company contact info (email, phone, address).
+
+Theme Requirements
+
+Uniform theme across all pages.
+
+Tech + AI-inspired visuals.
+
+Smooth transitions and hover effects.
